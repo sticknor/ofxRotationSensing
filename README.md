@@ -15,8 +15,8 @@ Download this repo and drop the folder into the `openFrameworks/addons/` folder.
 
 Dependencies
 ------------
-ofxGui
-ofxOpenCV
+ofxGui /
+ofxOpenCV /
 ofxOpticalFlowFarneback
 
 Compatibility
