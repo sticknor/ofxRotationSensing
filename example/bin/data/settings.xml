@@ -1,0 +1,17 @@
+<group>
+	<Sampling_density>1</Sampling_density>
+	<Flow_threshold>24</Flow_threshold>
+	<CW_velocity>0.4</CW_velocity>
+	<CW_de-acceleration>0.23</CW_de-acceleration>
+	<CCW_velocity>0.35</CCW_velocity>
+	<CCW_de-acceleration>0.23</CCW_de-acceleration>
+	<Pyramid_scale>0.35</Pyramid_scale>
+	<Pyramid_levels>5</Pyramid_levels>
+	<Window_size>10</Window_size>
+	<Iterations_per_level>1</Iterations_per_level>
+	<Expansion_area>3</Expansion_area>
+	<Expansion_sigma>2.25</Expansion_sigma>
+<group/>
+<Center_X>246</Center_X>
+	<Center_Y>232</Center_Y>
+</group>
